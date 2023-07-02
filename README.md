@@ -11,3 +11,5 @@ git clone https://github.com/rtyt20/coffee_termux
 Запускаем: 
 cd coffee_termux
 Python3 coffee.py
+
+Канал в телеграм: https://t.me/detectedCoffee
