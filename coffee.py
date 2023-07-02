@@ -14,6 +14,7 @@ def wellcome():
 
 
 def print_menu():
+    print("Созданно при поддержке https://t.me/detectedCoffee ")
     print("1. Открыть одноразовый почтовый ящик")
     print("2. Сгенерировать пароль")
     print('3. Проверить пароль')
